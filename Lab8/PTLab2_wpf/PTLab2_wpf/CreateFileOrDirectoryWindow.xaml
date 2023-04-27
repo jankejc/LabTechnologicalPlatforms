@@ -1,0 +1,74 @@
+﻿<Window x:Class="PTLab2_wpf.CreateFileOrDirectoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PTLab2_wpf"
+        mc:Ignorable="d"
+        Title="CreateFileOrDirectoryWindow" Height="245" Width="274">
+    <Grid 
+        Width="292" Height="372" 
+        HorizontalAlignment="Left" VerticalAlignment="Top">
+        <TextBox 
+            Margin="10, 10" 
+            Width="50" Height="20" 
+            HorizontalAlignment="Left" VerticalAlignment="Top" 
+            BorderThickness="0" 
+            IsReadOnly="True">
+
+            Name:
+        </TextBox>
+
+        <TextBox 
+            Margin="65, 10" 
+            Width="160" Height="20" 
+            HorizontalAlignment="Right" VerticalAlignment="Top" 
+            x:Name="NewItemName" />
+
+        <Border Padding="10,0,0,0" Margin="0,0,0,81">
+            <StackPanel 
+                Margin="0, 50" 
+                Width="130" Height="20" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" 
+                Orientation="Horizontal">
+
+                <RadioButton x:Name="FileRadioButton" Content="File " />
+                <RadioButton x:Name="DirectoryRadioButton" Content="Directory" />
+            </StackPanel>
+        </Border>
+
+        <Border Padding="10,0,0,0" Margin="0,0,-6,122">
+            <StackPanel 
+                Margin="0,80"
+                Width="90" Height="80" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" >
+
+                <CheckBox Name="ReadOnlyCheck">ReadOnly</CheckBox>
+                <CheckBox Name="ArchiveCheck">Archive</CheckBox>
+                <CheckBox Name="HiddenCheck">Hidden</CheckBox>
+                <CheckBox Name="SystemCheck">System</CheckBox>
+            </StackPanel>
+        </Border>
+
+        <Button 
+            x:Name="SubmitButton"
+            Margin="15,170"
+            Width="65" Height="25" 
+            HorizontalAlignment="Left" VerticalAlignment="Top" 
+            Click="CreateItem_Click" ClickMode="Release" >
+
+            Ok
+        </Button>
+
+        <Button 
+            x:Name="CancelButton"
+            Margin="100,170"
+            Width="70" Height="25" 
+            HorizontalAlignment="Left" VerticalAlignment="Top" 
+            Click="CancelItem_Click" ClickMode="Release">
+
+            Cancel
+        </Button>
+
+    </Grid>
+</Window>

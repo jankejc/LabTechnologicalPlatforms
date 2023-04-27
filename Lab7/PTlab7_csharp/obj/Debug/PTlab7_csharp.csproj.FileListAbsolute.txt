@@ -1,0 +1,7 @@
+C:\Users\kubic\source\repos\PTlab7_csharp\PTlab7_csharp\bin\Debug\PTlab7_csharp.exe.config
+C:\Users\kubic\source\repos\PTlab7_csharp\PTlab7_csharp\bin\Debug\PTlab7_csharp.exe
+C:\Users\kubic\source\repos\PTlab7_csharp\PTlab7_csharp\bin\Debug\PTlab7_csharp.pdb
+C:\Users\kubic\source\repos\PTlab7_csharp\PTlab7_csharp\obj\Debug\PTlab7_csharp.csproj.CoreCompileInputs.cache
+C:\Users\kubic\source\repos\PTlab7_csharp\PTlab7_csharp\obj\Debug\PTlab7_csharp.exe
+C:\Users\kubic\source\repos\PTlab7_csharp\PTlab7_csharp\obj\Debug\PTlab7_csharp.pdb
+C:\Users\kubic\source\repos\PTlab7_csharp\PTlab7_csharp\obj\Debug\PTlab7_csharp.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\kubic\source\repos\PTLab3_linq\PTLab3_linq\bin\Debug\PTLab3_linq.exe.config
+C:\Users\kubic\source\repos\PTLab3_linq\PTLab3_linq\bin\Debug\PTLab3_linq.exe
+C:\Users\kubic\source\repos\PTLab3_linq\PTLab3_linq\bin\Debug\PTLab3_linq.pdb
+C:\Users\kubic\source\repos\PTLab3_linq\PTLab3_linq\obj\Debug\PTLab3_linq.csprojAssemblyReference.cache
+C:\Users\kubic\source\repos\PTLab3_linq\PTLab3_linq\obj\Debug\PTLab3_linq.csproj.CoreCompileInputs.cache
+C:\Users\kubic\source\repos\PTLab3_linq\PTLab3_linq\obj\Debug\PTLab3_linq.exe
+C:\Users\kubic\source\repos\PTLab3_linq\PTLab3_linq\obj\Debug\PTLab3_linq.pdb

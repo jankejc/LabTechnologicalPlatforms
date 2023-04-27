@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTLab3_linq", "PTLab3_linq\PTLab3_linq.csproj", "{A72987F5-0B30-4FA6-A7CD-AE7CB7630D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72987F5-0B30-4FA6-A7CD-AE7CB7630D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72987F5-0B30-4FA6-A7CD-AE7CB7630D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72987F5-0B30-4FA6-A7CD-AE7CB7630D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72987F5-0B30-4FA6-A7CD-AE7CB7630D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57EB200E-A236-4B6E-B2D7-BF5C82586688}
+	EndGlobalSection
+EndGlobal
